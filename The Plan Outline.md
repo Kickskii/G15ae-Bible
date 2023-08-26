@@ -179,3 +179,4 @@ what happens if your gpu just doesnt wanna work anymore or appears as "extreme p
 why did this happen
 how to fix it
 how to move on from here
+
