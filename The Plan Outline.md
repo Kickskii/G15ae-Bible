@@ -37,6 +37,7 @@ setting up the Flash drive/SSD for UMAF Bios Editor as well as the Optional down
 show how to downgrade the bios
 explaining what just happened and what we about to do when we jump into UMAF for the first time
 explain the entirety of PBO and what everything is and how it works
+how to test different pbo limits and their effect on performance
 
 setting power limits in Ghelper before starting
 PBO limits part 1 -5 test
@@ -44,7 +45,7 @@ explain why the -5 test exists
 revamp the -5 test to include p95 SSE 60m per core as well as y cruncher for 40m per core
 explain why we stress test and why this is EXTREMELY important to do
 if they passed the -5 test 
-PBO limits part 2 
+PBO limits part 2 g15 ae specific
 
 Introduction to Curve Optimizer
 why is it not exactly undervolting
@@ -53,8 +54,8 @@ the few methods of doing per core and pro's and cons of them
 how to use premade RyzenAdj scripts to do percore for every core one by one
 going from high to low this time cause time is of the essence
 what error look like
-why even a single error at any point is bad
-using y cruncher for main testing
+why errors are bad
+what the tools ie Y cruncher and P95 are and why do we use them
 having a final test involving 6 iterations of Y cruncher on every core as well as 2 hours of Prime95 on each core
 
 after finishing noting down all performance metrics in the excel sheet/notepad/mobile notes app by doing CPU benchmarks
