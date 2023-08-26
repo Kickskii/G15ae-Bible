@@ -1,9 +1,9 @@
 # Checklist on what needs to be explained
 ## like a guideline of a script idk 
 
-Intro
+Intro #new_section
 there are timestamps on the video and a extensive checklist in the discription about everything feel free to jump around
-join the discord
+join the discord 
 
 checking the ram
 getting an external display cable
@@ -13,13 +13,14 @@ checking the performance OOTB
 some stock performance numbers with good stock ram
 >>should we do ram tuning as the opening?
 >>could technically just tell about it during the ram section if needed
+>>could just give recommendations and tell to go to the ram section about learning the difference and why something was done
 
 Disclaimer about damage to your machine being at their own risk we just sharing the findings and methords we the g15ae community found
 preach about stability and proper testing 
 
-Disclaimer about performance gain being based on silicon lottery
+Disclaimer about performance gain being based on silicon lottery #new_section
 steps to do before starting
-downloading my redone toolbox ((the toolbox is shit please redo it))
+downloading my redone toolbox ((the toolbox is kinda shit please redo it))[[remaking the toolbox]]
 reinstalling windows (can be using ReviOS or whatever(example GhostSpectre or Tiny11))
 installing Drivers using the toolbox
 not having asus shitty bloatware
@@ -31,7 +32,7 @@ deleting the dll's from ghelper
 -show how to disable windows telemetry and driver updates from windows update
 disable firmware device to completely block bios updates
 
-Bios Recommendation + why 316 and in which case its fine to use latest(iets)
+Bios Recommendation + why 316 and in which case its fine to use latest(iets) #new_section 
 explaining differences between the bios versions as per personal findings
 
 setting up the Flash drive/SSD for UMAF Bios Editor as well as the Optional downgrade
@@ -40,23 +41,31 @@ explaining what just happened and what we about to do when we jump into UMAF for
 explain the entirety of PBO and what everything is and how it works
 how to test different pbo limits and their effect on performance
 
-setting power limits in Ghelper before starting
-PBO limits part 1 -5 test
+setting power limits in Ghelper before starting #g15_specific
+PBO limits part 1 [-5 test]
 explain why the -5 test exists
 revamp the -5 test to include p95 SSE 60m per core as well as y cruncher for 40m per core
 explain why we stress test and why this is EXTREMELY important to do
 if they passed the -5 test 
-PBO limits part 2 g15 ae specific
+PBO limits part 2 #g15_specific 
 
-Introduction to Curve Optimizer
+Introduction to Curve Optimizer #new_section 
 why is it not exactly undervolting
 why PerCore and why not just use AllCore
-the two methods of doing per core and pro's and cons of them
+the two methods of doing per core and why to use one over the other
+what is the lookup table
+glancing over the formula to calculate the lookup table
+easier way to interpret the lookup table
+what cpus can the lookup table work on
+what needs testing (dual ccd's)
+what the tools ie Y cruncher and P95 are and why do we use them
+what are the different modes for these in core cycler and how they are differernt and why do we gotta do such long tests using them
 how to use premade RyzenAdj scripts to do percore for every core one by one
 going from high to low this time cause time is of the essence
 what error look like
 why errors are bad
-what the tools ie Y cruncher and P95 are and why do we use them
+what running unstable will do
+
 having a final test involving 6 iterations of Y cruncher on every core as well as 2 hours of Prime95 on each core
 
 after finishing noting down all performance metrics in the excel sheet/notepad/mobile notes app by doing CPU benchmarks
