@@ -132,3 +132,9 @@ how lower than 1080p for monitor resolution doesnt give you more score
 benchmarking 
 
 how to get icc profile for your laptop panel
+
+what happens when youre on an unstable gpu tune
+what happens if your gpu just doesnt wanna work anymore or appears as "extreme power saver" in armourycrate if youre still using that
+why did this happen
+how to fix it
+how to move on from here
