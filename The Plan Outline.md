@@ -66,6 +66,8 @@ setting up Task Scheduler and setting it to disabled so as to enable it back up 
 WELCOME TO HELL
 
 *insert ram tuning shit in here*
+;-;
+uhhhh [[ram tuning]]
 
 
 
