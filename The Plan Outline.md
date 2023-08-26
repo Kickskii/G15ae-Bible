@@ -6,8 +6,20 @@ there are timestamps on the video and a extensive checklist in the discription a
 join the discord 
 
 checking the ram
+all 3 ram kits that come with the g15ae
+
 getting an external display cable
+why displayport and why not hdmi
+is freesync the only downside to not using type c to hdmi 
 getting new ram + ram recommendations 
+
+using typhoon burner
+where to get typhoon burner
+why not download it from the website
+virustotal of the typhoon burner zip file
+how to even run typhoon burner if defender blocks it
+why die type matters
+example of good dies
 
 checking the performance OOTB
 some stock performance numbers with good stock ram
@@ -32,6 +44,11 @@ deleting the dll's from ghelper
 -show how to disable windows telemetry and driver updates from windows update
 disable firmware device to completely block bios updates
 
+how to deal with TPM stutters
+windows 10
+disabling windows hello and bitlocker
+deleting the tpm driver or storing it in a safe location with the file location // this is done in safe mode
+note this is not for thermal based stutters these stutters are not reproducible and are truly random
 Bios Recommendation + why 316 and in which case its fine to use latest(iets) #new_section 
 explaining differences between the bios versions as per personal findings
 
@@ -39,7 +56,10 @@ setting up the Flash drive/SSD for UMAF Bios Editor as well as the Optional down
 show how to downgrade the bios
 explaining what just happened and what we about to do when we jump into UMAF for the first time
 explain the entirety of PBO and what everything is and how it works
-how to test different pbo limits and their effect on performance
+how to figure out motherboard PBO limits
+how to test reducing different pbo limits and their effect on performance
+finding a golden middle point
+
 
 setting power limits in Ghelper before starting #g15_specific
 PBO limits part 1 [-5 test]
@@ -60,8 +80,11 @@ what cpus can the lookup table work on
 what needs testing (dual ccd's)
 what the tools ie Y cruncher and P95 are and why do we use them
 what are the different modes for these in core cycler and how they are differernt and why do we gotta do such long tests using them
-how to use premade RyzenAdj scripts to do percore for every core one by one
-going from high to low this time cause time is of the essence
+what are we going to do with the ryzenadj script
+link to ryzenadj documentation and link to isle of zen discord in case you want to know about more commands
+how to use premade RyzenAdj script to do percore for every core one by one
+going from high to low this time 
+explaining the corecycler config file and how jank my setup for it is
 what error look like
 why errors are bad
 what running unstable will do
@@ -71,6 +94,13 @@ having a final test involving 6 iterations of Y cruncher on every core as well a
 after finishing noting down all performance metrics in the excel sheet/notepad/mobile notes app by doing CPU benchmarks
 
 setting up Task Scheduler and setting it to disabled so as to enable it back up after RAM tuning
+
+what is CPPC 
+why should you care
+in which cases to turn it off
+how to turn it off
+does EPP do anything should i care?
+in what scenario's should i care
 
 WELCOME TO HELL
 
@@ -126,6 +156,8 @@ why not to mess around in the more tab
 briefly glance over the parameters on the more curve section
 how to tune your gpu
 a few starter MPT profiles i have for you to use or mess around with
+how to recover if windows will not boot after applying MPT profile
+reboot a few times and windwos will ask about startup variables boot to safe mode and delete sppt 
 
 moreclocktool: why you dont exactly need adrenaline software but have it anyways
 what you should and shouldnt change
