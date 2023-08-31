@@ -39,3 +39,6 @@ mounting pressure on the g15
 pastejob on the g15 with examples
 
 the fartnite saga
+https://draculatheme.com/qbittorrent
+https://www.onmsft.com/how-to/how-to-get-dark-theme-title-bars-in-windows-10-without-changing-your-accent-colour/
+7zip dark theme build
