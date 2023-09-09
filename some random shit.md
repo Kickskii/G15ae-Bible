@@ -46,3 +46,5 @@ https://www.onmsft.com/how-to/how-to-get-dark-theme-title-bars-in-windows-10-wit
 actually disabling TPM instead of just deleting the driver
 
 https://github.com/amitxv/PC-Tuning ????
+
+bcdedit /set bootmenupolicy legacy - enable f8 menu
