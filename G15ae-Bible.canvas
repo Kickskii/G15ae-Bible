@@ -8,26 +8,27 @@
 		{"id":"0a5e52b55ce01793","type":"text","text":"[[Repaste and Repad Instructions]]","x":-1060,"y":-400,"width":250,"height":60},
 		{"id":"cb7688af2b8ec0bf","type":"text","text":"extra instructions","x":-1060,"y":-610,"width":250,"height":60},
 		{"id":"9ef13463d1d44092","type":"text","text":"[[The Plan Outline]]","x":-520,"y":-860,"width":250,"height":60},
+		{"id":"95df6a3146e606b8","type":"text","text":"[[Benchmarking]]","x":100,"y":-480,"width":250,"height":60},
+		{"id":"27933791695814c4","type":"text","text":"[[Bios Change]]","x":100,"y":-700,"width":250,"height":60},
+		{"id":"f249442a59b64d37","type":"text","text":"[[tuning outline]]","x":100,"y":-600,"width":250,"height":60},
+		{"id":"83dc7437df6a157f","type":"text","text":"[[ToolBox]]","x":100,"y":-860,"width":250,"height":60},
 		{"id":"2fc131691bda36e0","type":"text","text":"Performance Tuning","x":100,"y":-180,"width":250,"height":60},
 		{"id":"69f0372cb66ffb80","type":"text","text":"[[Cpu]]","x":455,"y":-175,"width":180,"height":50},
 		{"id":"3f54922f3c70ba48","type":"text","text":"Cpu Stress testing Methodology","x":420,"y":-60,"width":250,"height":60},
-		{"id":"95df6a3146e606b8","type":"text","text":"[[Benchmarking]]","x":100,"y":-480,"width":250,"height":60},
 		{"id":"5003f4e946df57ea","type":"text","text":"[[Bios]]","x":135,"y":-375,"width":180,"height":50},
-		{"id":"27933791695814c4","type":"text","text":"[[Bios Change]]","x":100,"y":-700,"width":250,"height":60},
-		{"id":"f249442a59b64d37","x":100,"y":-600,"width":250,"height":60,"type":"text","text":"[[tuning outline]]"},
-		{"id":"83dc7437df6a157f","type":"text","text":"[[ToolBox]]","x":100,"y":-860,"width":250,"height":60},
 		{"id":"e88f88846beab873","type":"text","text":"[[(Optional) Ram]]","x":465,"y":200,"width":180,"height":50},
 		{"id":"153d450171c78c38","type":"text","text":"Ram stress testing","x":455,"y":300,"width":200,"height":50},
 		{"id":"448ce43d666e2ad1","type":"text","text":"[[Gpu]]","x":464,"y":520,"width":180,"height":50},
-		{"id":"49cf246f55cc99f2","type":"text","text":"Gpu stress testing","x":479,"y":620,"width":151,"height":54},
-		{"id":"7727bf83744af269","type":"text","text":"[[Benchmarking]]","x":430,"y":740,"width":250,"height":60},
 		{"id":"dc783f7aa74e2684","type":"text","text":"Stress Testing and EDC recommendation","x":455,"y":-380,"width":250,"height":60},
 		{"id":"8f4ea44a70523942","type":"text","text":"posting results on the discord","x":759,"y":740,"width":250,"height":60},
+		{"id":"49cf246f55cc99f2","type":"text","text":"Gpu stress testing","x":479,"y":620,"width":151,"height":54},
+		{"id":"7727bf83744af269","type":"text","text":"[[Benchmarking]]","x":430,"y":740,"width":250,"height":60},
 		{"id":"7acbca052f68e241","type":"text","text":"[[Miscellaneous]]","x":384,"y":880,"width":250,"height":60},
 		{"id":"4eeca06dddc14d23","type":"text","text":"[[Operating Systems]]","x":69,"y":980,"width":250,"height":60},
 		{"id":"0bc851283739ad6f","type":"text","text":"OS Tuning","x":384,"y":980,"width":250,"height":60},
 		{"id":"b1fecd3338fa4dc9","type":"text","text":"[[Linux]]","x":-226,"y":1080,"width":250,"height":60},
-		{"id":"31eaecea2267c275","type":"text","text":"[[Windows]]","x":69,"y":1080,"width":250,"height":60}
+		{"id":"31eaecea2267c275","type":"text","text":"[[Windows]]","x":69,"y":1080,"width":250,"height":60},
+		{"id":"74da8546c45f308f","x":-226,"y":1200,"width":250,"height":60,"type":"text","text":"[[setting up the tune to work in linux]]"}
 	],
 	"edges":[
 		{"id":"79010a10cc0b01fb","fromNode":"9ef13463d1d44092","fromSide":"bottom","toNode":"27933791695814c4","toSide":"top"},
@@ -58,6 +59,7 @@
 		{"id":"e0558ecae0659519","fromNode":"7727bf83744af269","fromSide":"bottom","toNode":"7acbca052f68e241","toSide":"top"},
 		{"id":"ad89b153aa2a9f86","fromNode":"7727bf83744af269","fromSide":"right","toNode":"8f4ea44a70523942","toSide":"left"},
 		{"id":"fb84f4da0e334289","fromNode":"27933791695814c4","fromSide":"bottom","toNode":"f249442a59b64d37","toSide":"top"},
-		{"id":"9eb774f97fa8cd0f","fromNode":"f249442a59b64d37","fromSide":"bottom","toNode":"95df6a3146e606b8","toSide":"top"}
+		{"id":"9eb774f97fa8cd0f","fromNode":"f249442a59b64d37","fromSide":"bottom","toNode":"95df6a3146e606b8","toSide":"top"},
+		{"id":"3493d5f1c83d7717","fromNode":"b1fecd3338fa4dc9","fromSide":"bottom","toNode":"74da8546c45f308f","toSide":"top"}
 	]
 }
