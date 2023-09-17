@@ -10,3 +10,6 @@ GPU with HSA
 ![[HSA – using the GPU with HSA.svg.png|350]]
 ![[Pasted image 20230917090946.png|425]]
 In general, this thing can increase FPS by reducing CPU calls
+Probably like this
+
+similar to AMD HSA principle. It allow access to gpu/system memory more effectively
