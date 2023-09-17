@@ -24,7 +24,7 @@
 
 # Cpu
 ## Info
-## Tuner
+## UMAF
 
 ## Benchmark
 
