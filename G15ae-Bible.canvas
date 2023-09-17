@@ -8,10 +8,10 @@
 		{"id":"0a5e52b55ce01793","type":"text","text":"[[Repaste and Repad Instructions]]","x":-1060,"y":-400,"width":250,"height":60},
 		{"id":"cb7688af2b8ec0bf","type":"text","text":"extra instructions","x":-1060,"y":-610,"width":250,"height":60},
 		{"id":"9ef13463d1d44092","type":"text","text":"[[The Plan Outline]]","x":-520,"y":-860,"width":250,"height":60},
-		{"id":"95df6a3146e606b8","type":"text","text":"[[Benchmarking]]","x":100,"y":-480,"width":250,"height":60},
 		{"id":"27933791695814c4","type":"text","text":"[[Bios Change]]","x":100,"y":-700,"width":250,"height":60},
 		{"id":"f249442a59b64d37","type":"text","text":"[[tuning outline]]","x":100,"y":-600,"width":250,"height":60},
 		{"id":"83dc7437df6a157f","type":"text","text":"[[ToolBox]]","x":100,"y":-860,"width":250,"height":60},
+		{"id":"95df6a3146e606b8","type":"text","text":"[[Benchmarking]]","x":100,"y":-480,"width":250,"height":60},
 		{"id":"2fc131691bda36e0","type":"text","text":"Performance Tuning","x":100,"y":-180,"width":250,"height":60},
 		{"id":"69f0372cb66ffb80","type":"text","text":"[[Cpu]]","x":455,"y":-175,"width":180,"height":50},
 		{"id":"3f54922f3c70ba48","type":"text","text":"Cpu Stress testing Methodology","x":420,"y":-60,"width":250,"height":60},
@@ -28,7 +28,8 @@
 		{"id":"0bc851283739ad6f","type":"text","text":"OS Tuning","x":384,"y":980,"width":250,"height":60},
 		{"id":"b1fecd3338fa4dc9","type":"text","text":"[[Linux]]","x":-226,"y":1080,"width":250,"height":60},
 		{"id":"31eaecea2267c275","type":"text","text":"[[Windows]]","x":69,"y":1080,"width":250,"height":60},
-		{"id":"74da8546c45f308f","x":-226,"y":1200,"width":250,"height":60,"type":"text","text":"[[setting up the tune to work in linux]]"}
+		{"id":"74da8546c45f308f","type":"text","text":"[[setting up the tune to work in linux]]","x":-226,"y":1200,"width":250,"height":60},
+		{"id":"a57d8ab1d880267b","x":759,"y":250,"width":322,"height":55,"type":"text","text":"Note: this gets you the most performance gain"}
 	],
 	"edges":[
 		{"id":"79010a10cc0b01fb","fromNode":"9ef13463d1d44092","fromSide":"bottom","toNode":"27933791695814c4","toSide":"top"},
