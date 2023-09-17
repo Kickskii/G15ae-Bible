@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"173e170118343f5c","type":"group","x":-80,"y":-480,"width":1475,"height":1240,"color":"1","label":"Better than Sex"},
+		{"id":"c65134900cb9b531","x":460,"y":140,"width":800,"height":240,"color":"3","type":"group","label":"this part is optional due to its property of being a pain in the ass"},
 		{"id":"9ef13463d1d44092","type":"text","text":"[[The Plan Outline]]","x":-520,"y":-800,"width":250,"height":60},
 		{"id":"9a3e0928856293df","type":"text","text":"[[Recommended Upgrades]]","x":-520,"y":-580,"width":250,"height":60},
 		{"id":"a75f0ecfa96a2ae7","type":"text","text":"[[In Case of BIOS Flash Failure]]","x":-1060,"y":-520,"width":250,"height":60},
@@ -8,8 +9,6 @@
 		{"id":"0a5e52b55ce01793","type":"text","text":"[[Repaste and Repad Instructions]]","x":-1060,"y":-400,"width":250,"height":60},
 		{"id":"cb7688af2b8ec0bf","type":"text","text":"extra instructions","x":-1060,"y":-610,"width":250,"height":60},
 		{"id":"69f0372cb66ffb80","type":"text","text":"[[Cpu]]","x":615,"y":-135,"width":180,"height":50},
-		{"id":"e88f88846beab873","type":"text","text":"[[(Optional) Ram]]","x":625,"y":180,"width":180,"height":50},
-		{"id":"153d450171c78c38","type":"text","text":"Ram stress testing","x":615,"y":280,"width":200,"height":50},
 		{"id":"448ce43d666e2ad1","type":"text","text":"[[Gpu]]","x":625,"y":420,"width":180,"height":50},
 		{"id":"49cf246f55cc99f2","x":640,"y":520,"width":151,"height":54,"type":"text","text":"Gpu stress testing"},
 		{"id":"7acbca052f68e241","type":"text","text":"[[Miscellaneous]]","x":545,"y":780,"width":250,"height":60},
@@ -25,7 +24,9 @@
 		{"id":"7727bf83744af269","x":591,"y":640,"width":250,"height":60,"type":"text","text":"[[Benchmarking]]"},
 		{"id":"8f4ea44a70523942","x":920,"y":640,"width":250,"height":60,"type":"text","text":"posting results on the discord"},
 		{"id":"27933791695814c4","type":"text","text":"[[Tuning]]","x":200,"y":-590,"width":250,"height":60},
-		{"id":"83dc7437df6a157f","type":"text","text":"[[ToolBox]]","x":375,"y":-800,"width":250,"height":60}
+		{"id":"83dc7437df6a157f","type":"text","text":"[[ToolBox]]","x":375,"y":-800,"width":250,"height":60},
+		{"id":"e88f88846beab873","type":"text","text":"[[(Optional) Ram]]","x":585,"y":160,"width":180,"height":50},
+		{"id":"153d450171c78c38","type":"text","text":"Ram stress testing","x":575,"y":260,"width":200,"height":50}
 	],
 	"edges":[
 		{"id":"79010a10cc0b01fb","fromNode":"9ef13463d1d44092","fromSide":"bottom","toNode":"27933791695814c4","toSide":"top"},
